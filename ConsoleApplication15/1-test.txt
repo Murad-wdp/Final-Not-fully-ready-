@@ -1,0 +1,25 @@
+1. (Which of the following uses combinations?)
+a) The number of permutations of 5 people
+b) Choosing 3 people from 5
+c) Dividing 5 people into 2 groups
+d) Seating 5 people in 3 places
+2. (Find the permutation of 3 different numbers:)
+a) 3
+b) 6
+c) 9
+d) 12
+3. (Find the next number in the sequence: 3, 6, 9, 12, __?)
+a) 13
+b) 14
+c) 15
+d) 16
+4. (Find the greatest common divisor (GCD) of 10 and 15:)
+a) 3
+b) 5
+c) 10
+d) 15
+5. (How many different ways can 5 people be divided into 2 groups?)
+a) 10
+b) 15
+c) 26
+d) 31

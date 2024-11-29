@@ -1,0 +1,25 @@
+1. Which formula is used to calculate the energy of a photon?
+a) E = mc^2
+b) E = hf
+c) F = ma
+d) p = mv
+2. Which formula is used to calculate the de Broglie wavelength of an electron?
+a) lambda = h / mv
+b) lambda = mv / h
+c) lambda = E / c
+d) lambda = c / E
+3. In quantum mechanics, which property does a particle possess?
+a) Particles can exist in a definite position
+b) Particles also have wave-like properties
+c) Particles always move at a constant speed
+d) Particles are only present at a specific moment in time
+4. What does Pauli's exclusion principle state?
+a) Two electrons of the same type cannot exist in the same atomic orbital
+b) Two electrons always move in the same way
+c) Particles can only have fixed energy
+d) Electrons can only exist in discrete energy levels
+5. What phenomenon is explained by quantum jumps?
+a) The electron's separation from the atom
+b) The electron moving to a higher energy orbital
+c) The electron moving to a lower energy orbital and emitting a photon
+d) The electron losing its velocity

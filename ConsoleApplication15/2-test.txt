@@ -1,0 +1,25 @@
+1. Find the limit lim x->2 (x^2 - 4) / (x - 2):
+a) 0
+b) 2
+c) 4
+d) 8
+2. Find the integral from 0 to 1 of (3x^2 + 2x) dx:
+a) 1
+b) 2
+c) 3
+d) 4
+3. Find the maximum point of the function y = x^3 - 3x + 1:
+a) x = 0
+b) x = -1
+c) x = 1
+d) x = 2
+4. Which of the following functions is not differentiable?
+a) y = |x|
+b) y = x^2
+c) y = sin(x)
+d) y = e^x
+5. Find the derivative d/dx (x^2 * ln(x)):
+a) 2x * ln(x)
+b) x^2 / x
+c) 2x * ln(x) + x
+d) x^2 + 1

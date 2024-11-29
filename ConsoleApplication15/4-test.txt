@@ -1,0 +1,25 @@
+1. Which quantity is used in the analysis of a body's motion?
+a) Velocity
+b) Mass
+c) Time
+d) Distance
+2. Which law is applied in relation to the force acting on a moving object?
+a) Newton's first law
+b) Newton's second law
+c) Newton's third law
+d) Archimedes' law
+3. Find the gravitational force acting on a body with a mass of 5 kg (g = 10 m/s²).
+a) 10 N
+b) 15 N
+c) 50 N
+d) 5 N
+4. If the sum of the forces acting on an object is zero, what type of motion will it cause?
+a) Accelerated motion
+b) Uniform motion
+c) Uniform circular motion
+d) Rotational motion
+5. Which formula is used to calculate the work done by a force applied to a body?
+a) W = F * v
+b) W = F * d
+c) W = F * a
+d) W = F * t
